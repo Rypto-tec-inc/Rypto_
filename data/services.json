@@ -1,0 +1,362 @@
+[
+  {
+    "id": "16726206-df83-4ac3-a6e5-878029c927fb",
+    "title": "Animation & Motion Graphics",
+    "description": "Bringing stories to life through stunning 2D and 3D animations, motion graphics, and visual effects.",
+    "icon": "Palette",
+    "features": [
+      "2D Animation",
+      "3D Animation",
+      "Motion Graphics",
+      "Visual Effects"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T19:27:29.008Z",
+    "updatedAt": "2025-09-05T19:27:29.010Z"
+  },
+  {
+    "id": "1163e8e0-da10-4a02-9bab-3919b88b13ba",
+    "title": "3D Design & Modeling",
+    "description": "Creating immersive 3D models, environments, and architectural visualizations with precision and creativity.",
+    "icon": "Cube",
+    "features": [
+      "3D Modeling",
+      "Texturing",
+      "Lighting",
+      "Rendering"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T19:27:29.010Z",
+    "updatedAt": "2025-09-05T19:27:29.010Z"
+  },
+  {
+    "id": "5a43818f-8219-4497-b7ff-217b1321c932",
+    "title": "AR/VR Development",
+    "description": "Building cutting-edge augmented and virtual reality experiences for various platforms and industries.",
+    "icon": "Smartphone",
+    "features": [
+      "AR Applications",
+      "VR Experiences",
+      "Mixed Reality",
+      "Interactive Design"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T19:27:29.010Z",
+    "updatedAt": "2025-09-05T19:27:29.010Z"
+  },
+  {
+    "id": "13f5f945-3dc1-4e03-bfcf-aef115e4a74c",
+    "title": "Web Development",
+    "description": "Crafting responsive, modern websites and web applications with the latest technologies and frameworks.",
+    "icon": "Globe",
+    "features": [
+      "Frontend Development",
+      "Backend Development",
+      "Full-Stack",
+      "E-commerce"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T19:27:29.010Z",
+    "updatedAt": "2025-09-05T19:27:29.010Z"
+  },
+  {
+    "id": "43950be1-8b27-484b-b68d-726067a300a7",
+    "title": "Software Development",
+    "description": "Developing custom software solutions, mobile apps, and enterprise applications tailored to your needs.",
+    "icon": "Code",
+    "features": [
+      "Mobile Apps",
+      "Desktop Applications",
+      "API Development",
+      "Database Design"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T19:27:29.010Z",
+    "updatedAt": "2025-09-05T19:27:29.010Z"
+  },
+  {
+    "id": "de0d4237-63ab-4f0e-aace-c9efc247f388",
+    "title": "3D Fashion Design",
+    "description": "Revolutionary 3D fashion design and virtual clothing creation for the digital fashion industry.",
+    "icon": "Zap",
+    "features": [
+      "3D Garment Design",
+      "Virtual Try-On",
+      "Fashion Visualization",
+      "Digital Patterns"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T19:27:29.010Z",
+    "updatedAt": "2025-09-05T19:27:29.010Z"
+  },
+  {
+    "id": "36ac6b51-60ee-4712-b7aa-7b5ba85c252a",
+    "title": "Animation & Motion Graphics",
+    "description": "Bringing stories to life through stunning 2D and 3D animations, motion graphics, and visual effects.",
+    "icon": "Palette",
+    "features": [
+      "2D Animation",
+      "3D Animation",
+      "Motion Graphics",
+      "Visual Effects"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T19:46:40.327Z",
+    "updatedAt": "2025-09-05T19:46:40.327Z"
+  },
+  {
+    "id": "6142bf93-49af-45c2-af0e-082de41cf1e2",
+    "title": "3D Design & Modeling",
+    "description": "Creating immersive 3D models, environments, and architectural visualizations with precision and creativity.",
+    "icon": "Cube",
+    "features": [
+      "3D Modeling",
+      "Texturing",
+      "Lighting",
+      "Rendering"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T19:46:40.412Z",
+    "updatedAt": "2025-09-05T19:46:40.412Z"
+  },
+  {
+    "id": "0cb94d13-0ed3-40c2-8be0-2397a0fd4582",
+    "title": "AR/VR Development",
+    "description": "Building cutting-edge augmented and virtual reality experiences for various platforms and industries.",
+    "icon": "Smartphone",
+    "features": [
+      "AR Applications",
+      "VR Experiences",
+      "Mixed Reality",
+      "Interactive Design"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T19:46:40.413Z",
+    "updatedAt": "2025-09-05T19:46:40.413Z"
+  },
+  {
+    "id": "368670c8-e548-4da5-8c09-990be1d1cc16",
+    "title": "Web Development",
+    "description": "Crafting responsive, modern websites and web applications with the latest technologies and frameworks.",
+    "icon": "Globe",
+    "features": [
+      "Frontend Development",
+      "Backend Development",
+      "Full-Stack",
+      "E-commerce"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T19:46:40.415Z",
+    "updatedAt": "2025-09-05T19:46:40.415Z"
+  },
+  {
+    "id": "50e6e788-e5b6-4366-9a57-6c1187c91fc3",
+    "title": "Software Development",
+    "description": "Developing custom software solutions, mobile apps, and enterprise applications tailored to your needs.",
+    "icon": "Code",
+    "features": [
+      "Mobile Apps",
+      "Desktop Applications",
+      "API Development",
+      "Database Design"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T19:46:40.459Z",
+    "updatedAt": "2025-09-05T19:46:40.459Z"
+  },
+  {
+    "id": "1142b7c4-d7bb-4608-aaac-9267bff299a4",
+    "title": "3D Fashion Design",
+    "description": "Revolutionary 3D fashion design and virtual clothing creation for the digital fashion industry.",
+    "icon": "Zap",
+    "features": [
+      "3D Garment Design",
+      "Virtual Try-On",
+      "Fashion Visualization",
+      "Digital Patterns"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T19:46:40.464Z",
+    "updatedAt": "2025-09-05T19:46:40.464Z"
+  },
+  {
+    "id": "6df6a78a-c6f0-4ad2-8f47-6235d2f30f48",
+    "title": "Animation & Motion Graphics",
+    "description": "Bringing stories to life through stunning 2D and 3D animations, motion graphics, and visual effects.",
+    "icon": "Palette",
+    "features": [
+      "2D Animation",
+      "3D Animation",
+      "Motion Graphics",
+      "Visual Effects"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T20:12:57.815Z",
+    "updatedAt": "2025-09-05T20:12:57.815Z"
+  },
+  {
+    "id": "b6ebb3b7-5f79-4432-b9e9-4ca362a5d467",
+    "title": "3D Design & Modeling",
+    "description": "Creating immersive 3D models, environments, and architectural visualizations with precision and creativity.",
+    "icon": "Cube",
+    "features": [
+      "3D Modeling",
+      "Texturing",
+      "Lighting",
+      "Rendering"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T20:12:57.885Z",
+    "updatedAt": "2025-09-05T20:12:57.885Z"
+  },
+  {
+    "id": "907eb0c2-6c52-4482-a9db-c06d91d86e66",
+    "title": "AR/VR Development",
+    "description": "Building cutting-edge augmented and virtual reality experiences for various platforms and industries.",
+    "icon": "Smartphone",
+    "features": [
+      "AR Applications",
+      "VR Experiences",
+      "Mixed Reality",
+      "Interactive Design"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T20:12:57.905Z",
+    "updatedAt": "2025-09-05T20:12:57.905Z"
+  },
+  {
+    "id": "6bbcbd58-e053-46df-8b88-386ed71fc791",
+    "title": "Web Development",
+    "description": "Crafting responsive, modern websites and web applications with the latest technologies and frameworks.",
+    "icon": "Globe",
+    "features": [
+      "Frontend Development",
+      "Backend Development",
+      "Full-Stack",
+      "E-commerce"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T20:12:57.909Z",
+    "updatedAt": "2025-09-05T20:12:57.909Z"
+  },
+  {
+    "id": "b8eafe43-23c8-4e89-8b12-5edb04fb70bf",
+    "title": "Software Development",
+    "description": "Developing custom software solutions, mobile apps, and enterprise applications tailored to your needs.",
+    "icon": "Code",
+    "features": [
+      "Mobile Apps",
+      "Desktop Applications",
+      "API Development",
+      "Database Design"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T20:12:57.914Z",
+    "updatedAt": "2025-09-05T20:12:57.914Z"
+  },
+  {
+    "id": "6a69ae2a-9ed6-4faf-9659-5cfb4afd69fb",
+    "title": "3D Fashion Design",
+    "description": "Revolutionary 3D fashion design and virtual clothing creation for the digital fashion industry.",
+    "icon": "Zap",
+    "features": [
+      "3D Garment Design",
+      "Virtual Try-On",
+      "Fashion Visualization",
+      "Digital Patterns"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T20:12:57.916Z",
+    "updatedAt": "2025-09-05T20:12:57.916Z"
+  },
+  {
+    "id": "7a9ab8dd-3870-4d37-9d1f-92b649af529d",
+    "title": "Animation & Motion Graphics",
+    "description": "Bringing stories to life through stunning 2D and 3D animations, motion graphics, and visual effects.",
+    "icon": "Palette",
+    "features": [
+      "2D Animation",
+      "3D Animation",
+      "Motion Graphics",
+      "Visual Effects"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.470Z",
+    "updatedAt": "2025-09-05T20:33:37.470Z"
+  },
+  {
+    "id": "ee458bcf-f24a-4721-a0ab-745583f9e2b6",
+    "title": "3D Design & Modeling",
+    "description": "Creating immersive 3D models, environments, and architectural visualizations with precision and creativity.",
+    "icon": "Cube",
+    "features": [
+      "3D Modeling",
+      "Texturing",
+      "Lighting",
+      "Rendering"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.474Z",
+    "updatedAt": "2025-09-05T20:33:37.474Z"
+  },
+  {
+    "id": "7a1a9f52-5f71-4dda-8ff3-4d55d767af12",
+    "title": "AR/VR Development",
+    "description": "Building cutting-edge augmented and virtual reality experiences for various platforms and industries.",
+    "icon": "Smartphone",
+    "features": [
+      "AR Applications",
+      "VR Experiences",
+      "Mixed Reality",
+      "Interactive Design"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.483Z",
+    "updatedAt": "2025-09-05T20:33:37.483Z"
+  },
+  {
+    "id": "e36ebf2e-6d41-44fb-be85-651f94eac481",
+    "title": "Web Development",
+    "description": "Crafting responsive, modern websites and web applications with the latest technologies and frameworks.",
+    "icon": "Globe",
+    "features": [
+      "Frontend Development",
+      "Backend Development",
+      "Full-Stack",
+      "E-commerce"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.489Z",
+    "updatedAt": "2025-09-05T20:33:37.489Z"
+  },
+  {
+    "id": "3bfd8afd-6b02-4b74-9094-8f75b69aca1b",
+    "title": "Software Development",
+    "description": "Developing custom software solutions, mobile apps, and enterprise applications tailored to your needs.",
+    "icon": "Code",
+    "features": [
+      "Mobile Apps",
+      "Desktop Applications",
+      "API Development",
+      "Database Design"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.504Z",
+    "updatedAt": "2025-09-05T20:33:37.504Z"
+  },
+  {
+    "id": "0195d0d5-76f4-4f1b-a275-4d10c82c8caf",
+    "title": "3D Fashion Design",
+    "description": "Revolutionary 3D fashion design and virtual clothing creation for the digital fashion industry.",
+    "icon": "Zap",
+    "features": [
+      "3D Garment Design",
+      "Virtual Try-On",
+      "Fashion Visualization",
+      "Digital Patterns"
+    ],
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.506Z",
+    "updatedAt": "2025-09-05T20:33:37.506Z"
+  }
+]

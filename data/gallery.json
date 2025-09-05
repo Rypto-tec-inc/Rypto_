@@ -1,0 +1,237 @@
+[
+  {
+    "id": "d7ccdd73-52d0-4a1c-ae7a-872782803e16",
+    "title": "Liberian Flag art",
+    "description": "Just a test",
+    "category": "illustrations",
+    "imageUrl": "/uploads/1757103815726-3.png",
+    "artist": "Victor Coleman",
+    "year": "2025",
+    "dimensions": "",
+    "software": [
+      "Blender"
+    ],
+    "tags": [],
+    "featured": false,
+    "active": true,
+    "createdAt": "2025-09-05T20:23:36.558Z",
+    "updatedAt": "2025-09-05T20:23:36.558Z"
+  },
+  {
+    "id": "6dcc891c-9286-4d36-9234-38842743299c",
+    "title": "Futuristic 3D Character Design",
+    "description": "Advanced character modeling with intricate details and realistic textures.",
+    "category": "3D Design",
+    "imageUrl": "/futuristic-3d-character-design-cyberpunk-style.jpg",
+    "artist": "Victor Edet Coleman",
+    "year": "2024",
+    "dimensions": "4K Resolution",
+    "software": [
+      "Blender",
+      "Substance Painter",
+      "ZBrush"
+    ],
+    "tags": [
+      "3d",
+      "character",
+      "cyberpunk",
+      "modeling"
+    ],
+    "featured": true,
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.519Z",
+    "updatedAt": "2025-09-05T20:33:37.519Z"
+  },
+  {
+    "id": "a2279082-f431-4e98-8903-547a347aa739",
+    "title": "Neon City AR Experience",
+    "description": "Immersive augmented reality cityscape with dynamic lighting and interactive elements.",
+    "category": "AR/VR",
+    "imageUrl": "/neon-cyberpunk-city-ar-interface.jpg",
+    "artist": "Rypto Studio Team",
+    "year": "2024",
+    "software": [
+      "Unity",
+      "ARCore",
+      "Blender"
+    ],
+    "tags": [
+      "ar",
+      "vr",
+      "interactive",
+      "cityscape"
+    ],
+    "featured": true,
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.521Z",
+    "updatedAt": "2025-09-05T20:33:37.521Z"
+  },
+  {
+    "id": "570b67c8-4eb1-4c24-a8f9-f2bbb83b5bed",
+    "title": "Fluid Motion Graphics",
+    "description": "Mesmerizing fluid simulations with particle systems and dynamic color transitions.",
+    "category": "Animation",
+    "imageUrl": "/abstract-fluid-motion-graphics-animation.jpg",
+    "artist": "Victor Edet Coleman",
+    "year": "2024",
+    "software": [
+      "After Effects",
+      "Cinema 4D",
+      "Houdini"
+    ],
+    "tags": [
+      "animation",
+      "motion",
+      "fluid",
+      "particles"
+    ],
+    "featured": false,
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.523Z",
+    "updatedAt": "2025-09-05T20:33:37.523Z"
+  },
+  {
+    "id": "0f9806d4-cf6f-4dc0-9640-7b4579309b5f",
+    "title": "Digital Fashion Collection",
+    "description": "Cutting-edge digital fashion pieces designed for virtual environments and AR try-ons.",
+    "category": "Fashion",
+    "imageUrl": "/digital-fashion-3d-clothing-design.jpg",
+    "artist": "Rypto Studio Team",
+    "year": "2024",
+    "software": [
+      "Marvelous Designer",
+      "Blender",
+      "CLO 3D"
+    ],
+    "tags": [
+      "fashion",
+      "3d",
+      "clothing",
+      "virtual"
+    ],
+    "featured": false,
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.533Z",
+    "updatedAt": "2025-09-05T20:33:37.533Z"
+  },
+  {
+    "id": "b738640c-fd06-4181-a07e-174a6fb76a38",
+    "title": "Interactive Web Portal",
+    "description": "Modern web interface with glassmorphism effects and smooth micro-interactions.",
+    "category": "Web Design",
+    "imageUrl": "/futuristic-web-interface-design.jpg",
+    "artist": "Victor Edet Coleman",
+    "year": "2024",
+    "software": [
+      "Figma",
+      "React",
+      "Three.js"
+    ],
+    "tags": [
+      "web",
+      "ui",
+      "interface",
+      "modern"
+    ],
+    "featured": true,
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.535Z",
+    "updatedAt": "2025-09-05T20:33:37.535Z"
+  },
+  {
+    "id": "7675e8f8-61f1-415b-bfd2-f22fb14cd65f",
+    "title": "Holographic Brand Identity",
+    "description": "Futuristic brand identity system with holographic elements and dynamic typography.",
+    "category": "Branding",
+    "imageUrl": "/holographic-brand-identity-design.jpg",
+    "artist": "Rypto Studio Team",
+    "year": "2024",
+    "software": [
+      "Adobe Creative Suite",
+      "Blender",
+      "After Effects"
+    ],
+    "tags": [
+      "branding",
+      "holographic",
+      "identity",
+      "typography"
+    ],
+    "featured": false,
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.536Z",
+    "updatedAt": "2025-09-05T20:33:37.536Z"
+  },
+  {
+    "id": "8b708329-a272-48ee-9e85-af1c771d5215",
+    "title": "3D Product Visualization",
+    "description": "High-quality 3D product renders with realistic materials and lighting.",
+    "category": "3D Design",
+    "imageUrl": "/holographic-3d-product-display-technology.jpg",
+    "artist": "Victor Edet Coleman",
+    "year": "2024",
+    "software": [
+      "Blender",
+      "Cycles",
+      "Photoshop"
+    ],
+    "tags": [
+      "3d",
+      "product",
+      "visualization",
+      "rendering"
+    ],
+    "featured": false,
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.538Z",
+    "updatedAt": "2025-09-05T20:33:37.538Z"
+  },
+  {
+    "id": "62a67450-a5f4-4344-b643-2be23c5d318c",
+    "title": "AR Fashion Interface",
+    "description": "Innovative AR interface for virtual fashion try-on experiences.",
+    "category": "AR/VR",
+    "imageUrl": "/ar-fashion-virtual-try-on-app-interface.jpg",
+    "artist": "Rypto Studio Team",
+    "year": "2024",
+    "software": [
+      "Unity",
+      "AR Foundation",
+      "Blender"
+    ],
+    "tags": [
+      "ar",
+      "fashion",
+      "interface",
+      "virtual"
+    ],
+    "featured": false,
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.539Z",
+    "updatedAt": "2025-09-05T20:33:37.539Z"
+  },
+  {
+    "id": "dd0f8604-b286-48c5-ac71-0cdb87608f7f",
+    "title": "AI Animation Interface",
+    "description": "Neural network-powered animation interface with intelligent automation.",
+    "category": "Animation",
+    "imageUrl": "/ai-animation-neural-network-interface.jpg",
+    "artist": "Victor Edet Coleman",
+    "year": "2024",
+    "software": [
+      "After Effects",
+      "Python",
+      "TensorFlow"
+    ],
+    "tags": [
+      "ai",
+      "animation",
+      "neural",
+      "automation"
+    ],
+    "featured": true,
+    "active": true,
+    "createdAt": "2025-09-05T20:33:37.541Z",
+    "updatedAt": "2025-09-05T20:33:37.541Z"
+  }
+]
